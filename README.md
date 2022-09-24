@@ -1,2 +1,2 @@
 # whispers-theme
-whispers in the wind-Theme
+whispers in the wind-Theme for WordPress
